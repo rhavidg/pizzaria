@@ -1,0 +1,7 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1 !important;
+  z-index: 2;
+}
